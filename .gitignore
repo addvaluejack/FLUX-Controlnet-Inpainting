@@ -1,0 +1,6 @@
+control_images/
+input_images/
+mask_images/
+output_images/
+
+*.pyc
